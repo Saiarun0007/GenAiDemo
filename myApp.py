@@ -4,10 +4,10 @@ st.header("Types of Cats")
 
 col1, col2 = st.columns(2)
 with col1:
-  st.subheader("Persian Cat")
-  st.image("./Persian.jpg", caption="Persian Cat", width=300,use_column_width=True)
-  st.write("Persian cats are cute")
+  st.subheader("Persian Pilli")
+  st.image("./persionPilli.jpg", caption="Persian Cat", width=300,use_column_width=True)
+  st.write("I sow it on Little stuart")
 with col2:
-  st.subheader("Ragdoll Cat")
-  st.image("./ragdoll.jpg", caption="Ragdoll Cat", width=300,use_column_width=True)
-  st.write("Ragdoll cats are proud")
+  st.subheader("Normal Pilli")
+  st.image("./normalPilli.jpeg", caption="Ragdoll Cat", width=300,use_column_width=True)
+  st.write("Just Normal Pilli")
